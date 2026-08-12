@@ -1,11 +1,5 @@
-flask
-requests
-protobuf
-protobuf-decoder
+Flask
 aiohttp
-pyjwt
-pytz
-psutil
-cfonts
+protobuf
 pycryptodome
-urllib3
+uvloop
